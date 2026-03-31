@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hey 👋
 
-<!--
-**pedropfpj/pedropfpj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Pedro Freire.
 
-Here are some ideas to get you started:
+💻 QA Analyst em transição de carreira para Quality Assurance  
+🧪 Experiência prática com testes manuais e de API  
+🚀 Foco em qualidade de software, validação e automação  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 Hard Skills
+
+- Manual Testing
+- API Testing
+- Postman
+- Jira
+- Selenium
+- Python
+- SQL
+- Test Case Design
+- Bug Reporting
+- Exploratory Testing
+- Swagger
+
+---
+
+## 💡 Soft Skills
+
+- Comunicação clara
+- Atenção aos detalhes
+- Pensamento analítico
+- Organização
+- Resolução de problemas
+
+---
+
+## 📂 Projetos
+
+🔹 Urban Routes & Urban Scooter  
+Testes manuais, API, casos de teste e documentação de bugs  
+
+🔹 Planilha de Casos de Teste  
+Validação com classes de equivalência e valores limite  
+
+🔹 Relatório de Bug (Jira)  
+Registro completo de defeitos com evidências  
+
+---
+
+## 📫 Contato
+
+- LinkedIn: https://www.linkedin.com/in/pedrofreire-qa
