@@ -59,14 +59,17 @@ I have an analytical mindset and enjoy understanding how systems work behind the
 
 ## 📂 Projetos | Projects
 
-🔹 QA Web Automation 
-Automated tests using Python and Selenium to validate web application flows.
+🔹 QA Web Automation  
+Automated tests using Python and Selenium to validate web application flows.  
+Testes automatizados utilizando Python e Selenium para validar fluxos de aplicações web.
 
-🔹 QA Automation Tests
-End-to-end QA project using Python, Selenium and Pytest focused on web testing.
+🔹 QA Automation Tests  
+End-to-end test automation project using Python, Selenium and Pytest focused on web application testing.  
+Projeto de automação de testes end-to-end utilizando Python, Selenium e Pytest com foco em testes de aplicações web.
 
 🔹 Music Sommelier (in progress)  
-App focused on recommending electronic music based on mood.
+App focused on recommending electronic music based on mood.  
+Aplicativo focado em recomendar música eletrônica com base no humor.
 
 ---
 
