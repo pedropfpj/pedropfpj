@@ -1,21 +1,22 @@
 # Hey 👋
+🔹 Meu nome é Pedro Freire
 
-🔹 Meu nome é Pedro Freire  
-🔹 QA Analyst em formação pela TripleTen  
-🔹 Focado em testes manuais, API e automação com Python  
-🔹 Experiência anterior como professor de inglês (comunicação e análise)  
+🔹 Junior QA Analyst com foco em testes manuais, API e automação com Python
 
-💡 Atualmente em transição para a área de tecnologia, com foco em qualidade de software, testes e melhoria contínua.
+🔹 Apaixonado por tecnologia, inteligência artificial e aprendizado contínuo
 
+🔹 Moro em São Paulo e estou construindo minha transição para a área de tecnologia, setor em que sempre quis atuar
+
+🔹 Antes mesmo da minha formação em QA, já explorava por conta própria a criação de aplicativos mobile e páginas web, sempre movido pela curiosidade e vontade de aprender
+
+💡 Tenho interesse em entender como sistemas funcionam por trás, analisar comportamentos e identificar falhas antes que impactem o usuário final
 ---
 
 ## 🚀 Sobre mim
 
-Sou apaixonado por tecnologia, lógica e resolução de problemas.  
-Tenho experiência com análise de cenários, atenção aos detalhes e comunicação clara — habilidades que aplico diretamente em QA.
+Sou apaixonado por tecnologia, inteligência artificial e resolução de problemas. Moro em São Paulo e estou em transição para a área de tecnologia, um objetivo que sempre tive ao longo da minha trajetória. Antes mesmo de iniciar minha formação em QA, já explorava por interesse próprio a criação de aplicativos mobile e páginas web, o que fortaleceu minha base técnica e curiosidade.
 
-Gosto de entender como sistemas funcionam por trás e encontrar falhas antes que cheguem ao usuário.
-
+Tenho perfil analítico, atenção aos detalhes e gosto de entender como sistemas funcionam em profundidade. Busco identificar comportamentos inesperados e contribuir para a entrega de produtos mais estáveis, confiáveis e com melhor experiência para o usuário.
 ---
 
 ## 🧪 Hard Skills | 💬 Soft Skills
