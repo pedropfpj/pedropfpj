@@ -1,52 +1,75 @@
 # Hey 👋
-🔹 Meu nome é Pedro Freire
 
-🔹 Junior QA Analyst com foco em testes manuais, API e automação com Python
+## 🇧🇷 Sobre mim
 
-🔹 Apaixonado por tecnologia, inteligência artificial e aprendizado contínuo
+Meu nome é Pedro Freire 👨‍💻  
 
-🔹 Moro em São Paulo e estou construindo minha transição para a área de tecnologia, setor em que sempre quis atuar
+Sou QA Analyst em formação, com foco em testes manuais, testes de API e automação com Python.
 
-🔹 Antes mesmo da minha formação em QA, já explorava por conta própria a criação de aplicativos mobile e páginas web, sempre movido pela curiosidade e vontade de aprender
+Tenho experiência anterior como professor de inglês, o que fortaleceu minha comunicação, pensamento analítico e atenção aos detalhes — habilidades que aplico diretamente na área de qualidade de software.
 
-💡 Tenho interesse em entender como sistemas funcionam por trás, analisar comportamentos e identificar falhas antes que impactem o usuário final
----
+Sou apaixonado por tecnologia, inteligência artificial e resolução de problemas. Moro em São Paulo e estou em transição para a área de tecnologia, um objetivo que sempre tive ao longo da minha trajetória.
 
-## 🚀 Sobre mim
+Antes mesmo da minha formação em QA, já explorava por conta própria a criação de aplicativos mobile e páginas web, o que fortaleceu minha base técnica e curiosidade.
 
-Sou apaixonado por tecnologia, inteligência artificial e resolução de problemas. Moro em São Paulo e estou em transição para a área de tecnologia, um objetivo que sempre tive ao longo da minha trajetória. Antes mesmo de iniciar minha formação em QA, já explorava por interesse próprio a criação de aplicativos mobile e páginas web, o que fortaleceu minha base técnica e curiosidade.
-
-Tenho perfil analítico, atenção aos detalhes e gosto de entender como sistemas funcionam em profundidade. Busco identificar comportamentos inesperados e contribuir para a entrega de produtos mais estáveis, confiáveis e com melhor experiência para o usuário.
----
-
-## 🧪 Hard Skills | 💬 Soft Skills
-
-| Hard Skills                  | Soft Skills              |
-|-----------------------------|--------------------------|
-| Testes Manuais              | Pensamento Analítico     |
-| Testes de API (Postman)     | Comunicação Clara        |
-| Selenium (básico)           | Atenção aos Detalhes     |
-| Python (básico)             | Organização              |
-| SQL (básico)                | Proatividade             |
-| Criação de Casos de Teste   | Aprendizado rápido       |
-| Jira (Bug Tracking)         | Trabalho em equipe       |
+Tenho um perfil analítico e gosto de entender como os sistemas funcionam por trás, buscando identificar falhas antes que impactem o usuário final.
 
 ---
 
-## 📂 Projetos em destaque
+## 🇺🇸 About me
 
-🔹 Testes automatizados com Python e Selenium  
-🔹 Criação de casos de teste com classes de equivalência  
-🔹 Testes de API com Postman  
-🔹 Relatórios de bug com Jira  
+My name is Pedro Freire 👨‍💻  
+
+I am a QA Analyst in training, focused on manual testing, API testing and test automation using Python.
+
+I have previous experience as an English teacher, which strengthened my communication, analytical thinking and attention to detail — skills I directly apply in software quality.
+
+I am passionate about technology, artificial intelligence and problem solving. I currently live in São Paulo and I am transitioning into the tech industry, a field I have always wanted to be part of.
+
+Even before my QA training, I explored building mobile apps and web pages on my own, which helped me develop a strong technical foundation and curiosity.
+
+I have an analytical mindset and enjoy understanding how systems work behind the scenes, aiming to identify issues before they impact the end user.
 
 ---
 
-## 📫 Contato
+## 🚀 Hard Skills | 💬 Soft Skills
 
-🔗 LinkedIn: https://linkedin.com/in/pedrofreire-qa  
-📧 Email: pedropfpj@gmail.com  
+| Hard Skills | Soft Skills |
+|------------|------------|
+| Testes Manuais / Manual Testing | Pensamento Analítico / Analytical Thinking |
+| Testes de API (Postman) / API Testing | Comunicação Clara / Clear Communication |
+| Selenium (básico) / Selenium (basic) | Atenção aos Detalhes / Attention to Detail |
+| Python (básico) / Python (basic) | Resolução de Problemas / Problem Solving |
+| SQL (básico) / SQL (basic) | Organização / Organization |
+| Jira | Proatividade / Proactivity |
 
 ---
 
-⭐ Sempre aprendendo e evoluindo na área de QA
+## 🛠️ Tecnologias | Technologies
+
+- Python  
+- Selenium WebDriver  
+- Postman  
+- Pytest  
+- SQL  
+- Jira  
+- Git & GitHub  
+
+---
+
+## 📂 Projetos | Projects
+
+🔹 QA Automation Tests  
+Automated tests using Python and Selenium to validate web application flows.
+
+🔹 QA Brazil Python Automation  
+End-to-end QA project using Python, Selenium and Pytest focused on web testing.
+
+🔹 Music Sommelier (in progress)  
+App focused on recommending electronic music based on mood.
+
+---
+
+## 📫 Contato | Contact
+
+- LinkedIn: https://www.linkedin.com/in/pedrofreire-qa  
