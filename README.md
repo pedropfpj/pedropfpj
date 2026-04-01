@@ -1,52 +1,51 @@
 # Hey 👋
 
-Meu nome é Pedro Freire.
+🔹 Meu nome é Pedro Freire  
+🔹 QA Analyst em formação pela TripleTen  
+🔹 Focado em testes manuais, API e automação com Python  
+🔹 Experiência anterior como professor de inglês (comunicação e análise)  
 
-💻 QA Analyst em transição de carreira para Quality Assurance  
-🧪 Experiência prática com testes manuais e de API  
-🚀 Foco em qualidade de software, validação e automação  
-
----
-
-## 🧠 Hard Skills
-
-- Manual Testing
-- API Testing
-- Postman
-- Jira
-- Selenium
-- Python
-- SQL
-- Test Case Design
-- Bug Reporting
-- Exploratory Testing
-- Swagger
+💡 Atualmente em transição para a área de tecnologia, com foco em qualidade de software, testes e melhoria contínua.
 
 ---
 
-## 💡 Soft Skills
+## 🚀 Sobre mim
 
-- Comunicação clara
-- Atenção aos detalhes
-- Pensamento analítico
-- Organização
-- Resolução de problemas
+Sou apaixonado por tecnologia, lógica e resolução de problemas.  
+Tenho experiência com análise de cenários, atenção aos detalhes e comunicação clara — habilidades que aplico diretamente em QA.
+
+Gosto de entender como sistemas funcionam por trás e encontrar falhas antes que cheguem ao usuário.
 
 ---
 
-## 📂 Projetos
+## 🧪 Hard Skills | 💬 Soft Skills
 
-🔹 Urban Routes & Urban Scooter  
-Testes manuais, API, casos de teste e documentação de bugs  
+| Hard Skills                  | Soft Skills              |
+|-----------------------------|--------------------------|
+| Testes Manuais              | Pensamento Analítico     |
+| Testes de API (Postman)     | Comunicação Clara        |
+| Selenium (básico)           | Atenção aos Detalhes     |
+| Python (básico)             | Organização              |
+| SQL (básico)                | Proatividade             |
+| Criação de Casos de Teste   | Aprendizado rápido       |
+| Jira (Bug Tracking)         | Trabalho em equipe       |
 
-🔹 Planilha de Casos de Teste  
-Validação com classes de equivalência e valores limite  
+---
 
-🔹 Relatório de Bug (Jira)  
-Registro completo de defeitos com evidências  
+## 📂 Projetos em destaque
+
+🔹 Testes automatizados com Python e Selenium  
+🔹 Criação de casos de teste com classes de equivalência  
+🔹 Testes de API com Postman  
+🔹 Relatórios de bug com Jira  
 
 ---
 
 ## 📫 Contato
 
-- LinkedIn: https://www.linkedin.com/in/pedrofreire-qa
+🔗 LinkedIn: https://linkedin.com/in/pedrofreire-qa  
+📧 Email: pedropfpj@gmail.com  
+
+---
+
+⭐ Sempre aprendendo e evoluindo na área de QA
