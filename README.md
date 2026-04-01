@@ -59,10 +59,10 @@ I have an analytical mindset and enjoy understanding how systems work behind the
 
 ## 📂 Projetos | Projects
 
-🔹 QA Automation Tests  
+🔹 QA Web Automation 
 Automated tests using Python and Selenium to validate web application flows.
 
-🔹 QA Brazil Python Automation  
+🔹 QA Automation Tests
 End-to-end QA project using Python, Selenium and Pytest focused on web testing.
 
 🔹 Music Sommelier (in progress)  
